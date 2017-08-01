@@ -20,6 +20,8 @@ public class Solution {
         public static void addPrice(int applesPrice) {
           Scanner sc = new Scanner(System.in);
           applesPrice = sc.nextInt();
+
+          //
         }
     }
 }
